@@ -20,6 +20,7 @@ function setup() {
   createCanvas(500, 500);
   background(180, 10, 200);
 
+  //do I put this in the start screen section?
   let button = createButton("Search");
   button.position(370, 170);
   button.style('font-family', 'Courier New');
