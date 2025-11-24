@@ -90,7 +90,7 @@ image(edit, 420, 430, 100, 60);
 function pageOne(){
 fill(255);
 textSize(100);
-text('how ideologies influnce the internet', 100, 200);
+text('random search things', 100, 200);
 }
 
 function pageTwo(){
