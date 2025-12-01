@@ -155,12 +155,36 @@ fill(0);
 
 
 function pageTwo(){
-  fill(255);
-  rect(80, 50, 330, 220);
 
   fill(255);
-  textSize(20);
-  text('not sure what im doing', 100, 200);
+textSize(100);
+
+
+//heading
+textFont('Courier New');
+textSize(50);
+fill(255);
+text('ExPLORE', 220, 140);
+
+  image(clouds, 40, 60, 200, 140);
+  image(profile, 420, 5, 100, 60);
+  textSize(15);
+  text('email', 400, 40);
+  fill(255);
+  rect(80, 171, 300, 20);
+  image(edit, 420, 430, 100, 60);
+
+
+
+  fill(255);
+  rect(80, 300, 330, 300);
+
+
+  fill(0);
+  textSize(10);
+  text('How to cite', 120, 60);
+
+  text('How to write an essay', 120, 80);
 
 
 
@@ -169,6 +193,8 @@ function pageTwo(){
 function end(){
   fill(255);
   textSize(100);
-  text('oh no! this page is not secure', 200, 30);
+  text('oh no! this page is not secure', 200, 100);
+
+  
 }
 
