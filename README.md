@@ -24,8 +24,9 @@ The background (DREAMS.png), the profile.jpg, the logo (moons-clouds.png) and ed
 Inspiration/help:
 - Google
 - Tor
-- The variable uk gov projevt on github repository (https://anthillsocial.github.io/GIT-coding-for-the-arts/03-variables/uk-gov/index.html) (https://github.com/anthillsocial/GIT-coding-for-the-arts/tree/main/03-variables/uk-gov)
+- The variable uk gov project on github repository (https://anthillsocial.github.io/GIT-coding-for-the-arts/03-variables/uk-gov/index.html) (https://github.com/anthillsocial/GIT-coding-for-the-arts/tree/main/03-variables/uk-gov)
 - p5js for the mousePressed code for pade two - https://p5js.org/reference/p5/mouseClicked/
+
 
 
 
