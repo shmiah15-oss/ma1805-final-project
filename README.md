@@ -9,7 +9,8 @@ Sources:
 The background (DREAMS.png), the profile.jpg, the logo (moons-clouds.png) and edit icon (edit.jpg) were created on Canva, the book on page two was drawn by myself and then taken a picture of.
 
 Inspiration:
--Google
--Tor
--the variable uk gov projevt on github repository
+- Google
+- Tor
+- the variable uk gov projevt on github repository
+
 
