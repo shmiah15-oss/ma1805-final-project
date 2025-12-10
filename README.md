@@ -18,6 +18,7 @@ Challenges:
 - if I had more time I would have made the warning page cleaner and have better effects
 
 Sources:
+
 The background (DREAMS.png), the profile.jpg, the logo (moons-clouds.png) and edit icon (edit.jpg) I created on Canva, the book on page two was drawn by myself, then taken a picture of and uploaded.
 
 Inspiration/help:
@@ -25,6 +26,7 @@ Inspiration/help:
 - Tor
 - the variable uk gov projevt on github repository (https://anthillsocial.github.io/GIT-coding-for-the-arts/03-variables/uk-gov/index.html) (https://github.com/anthillsocial/GIT-coding-for-the-arts/tree/main/03-variables/uk-gov)
 - p5js for the mousePressed code for pade two - https://p5js.org/reference/p5/mouseClicked/
+
 
 
 
